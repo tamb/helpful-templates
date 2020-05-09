@@ -1,5 +1,5 @@
 # Helpful Templates
-
+  
 ## Pull Request Template
 
 ### Preview
@@ -54,4 +54,3 @@
 - [x] I have added only appropriate documentation
 - [x] I have run my code
 ```
-
