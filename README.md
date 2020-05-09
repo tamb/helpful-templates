@@ -1,6 +1,6 @@
-# Pull Request Template
+## Pull Request Template
 
-## Preview
+### Preview
 # %Issue/Ticket Number% - %Issue/Ticket Title%
 **%Issue Link%**
 
@@ -24,7 +24,8 @@
 - [ ] I have checked-in only the relevant files
 - [x] I have added only appropriate documentation
 - [x] I have run my code
-## Markdown
+
+### Markdown
 ```md
 
 # %Issue/Ticket Number% - %Issue/Ticket Title%
